@@ -17,7 +17,7 @@ int binary_tree_is_parent(const binary_tree_t *node)
 }
 
 /**
- * binary_tree_nodes - counts the nodes with at least one child in a binary tree
+ * binary_tree_nodes - counts  nodes with at least 1 child in binary tree
  *
  * @tree: tree root
  * Return: number of parent nodes in a the tree or 0 if tree is NULL;
